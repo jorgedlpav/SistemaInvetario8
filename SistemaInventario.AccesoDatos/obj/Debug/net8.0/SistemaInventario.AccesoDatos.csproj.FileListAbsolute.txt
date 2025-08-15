@@ -15,3 +15,4 @@ C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.AccesoDatos\ob
 C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.AccesoDatos\obj\Debug\net8.0\refint\SistemaInventario.AccesoDatos.dll
 C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.pdb
 C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.AccesoDatos\obj\Debug\net8.0\ref\SistemaInventario.AccesoDatos.dll
+C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.sourcelink.json

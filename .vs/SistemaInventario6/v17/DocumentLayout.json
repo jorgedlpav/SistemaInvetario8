@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B55127F2-D711-47A1-A4F5-A28DC0FF32EE}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|c:\\users\\lenovo\\carlospiedra\\sistemainventario6\\sistemainventario.modelos\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55127F2-D711-47A1-A4F5-A28DC0FF32EE}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|solutionrelative:sistemainventario.modelos\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|c:\\users\\lenovo\\carlospiedra\\sistemainventario6\\sistemainventario6\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|solutionrelative:sistemainventario6\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|c:\\users\\lenovo\\carlospiedra\\sistemainventario6\\sistemainventario6\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|solutionrelative:sistemainventario6\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|c:\\users\\lenovo\\carlospiedra\\sistemainventario6\\sistemainventario6\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|solutionrelative:sistemainventario6\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|c:\\users\\lenovo\\carlospiedra\\sistemainventario6\\sistemainventario6\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|solutionrelative:sistemainventario6\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|c:\\users\\lenovo\\carlospiedra\\sistemainventario6\\sistemainventario6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|solutionrelative:sistemainventario6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|c:\\users\\lenovo\\carlospiedra\\sistemainventario6\\sistemainventario6\\areas\\admin\\controllers\\bodegacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07F3B2B-6170-435F-A5EB-7C170428A299}|SistemaInventario6\\SistemaInventario6.csproj|solutionrelative:sistemainventario6\\areas\\admin\\controllers\\bodegacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,16 +58,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bodega.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario.Modelos\\Bodega.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Bodega.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario.Modelos\\Bodega.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\Bodega.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T05:17:17.727Z",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaInventario6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T13:01:13.145Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\wwwroot\\js\\Categoria.js",
+              "RelativeDocumentMoniker": "SistemaInventario6\\wwwroot\\js\\Categoria.js",
+              "ToolTip": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\wwwroot\\js\\Categoria.js",
+              "RelativeToolTip": "SistemaInventario6\\wwwroot\\js\\Categoria.js",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-15T12:55:30.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "RelativeToolTip": "SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T12:50:36.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "SistemaInventario6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T12:48:11.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "SistemaInventario6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswFMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:13:12.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BodegaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario6\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\CarlosPiedra\\SistemaInventario6\\SistemaInventario6\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "RelativeToolTip": "SistemaInventario6\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:13:54.228Z"
             }
           ]
         }

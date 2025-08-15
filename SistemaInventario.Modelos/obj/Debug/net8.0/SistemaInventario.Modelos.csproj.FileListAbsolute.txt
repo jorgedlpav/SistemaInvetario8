@@ -13,3 +13,4 @@ C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.Modelos\obj\De
 C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.Modelos\obj\Debug\net8.0\refint\SistemaInventario.Modelos.dll
 C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.pdb
 C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.Modelos\obj\Debug\net8.0\ref\SistemaInventario.Modelos.dll
+C:\Users\Lenovo\CarlosPiedra\SistemaInventario6\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.sourcelink.json
